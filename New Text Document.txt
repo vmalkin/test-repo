@@ -1,1 +1,5 @@
-Here is some text to add
+Here is some text to add.
+
+I'm going to add some more text.
+but I wont do a commit just yet
+I'm going to try the git status command
